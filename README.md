@@ -12,7 +12,7 @@ Portfólio de projetos de Modelos Lineares Generalizados (MLG), desenvolvido dur
     * `glmtoolbox` & `ggplot2`: Para diagnóstico de modelos e visualização de dados.
 
 
-## 🔬 Projetos em Destaque
+## Projetos em Destaque
 
 Abaixo, você encontrará uma descrição detalhada de cada projeto.
 
